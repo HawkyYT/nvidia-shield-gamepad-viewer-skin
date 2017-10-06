@@ -1,7 +1,7 @@
 .controller.custom{
     background-image: url(base.svg);
-    height: 695px;
-    width: 748px;
+    height: 692px;
+    width: 758px;
 }
 
 .custom.disconnected {
@@ -16,7 +16,7 @@
     width: 556px;
     height: 119px;
     position: absolute;
-    left: 96px;
+    left: 101px;
 }
 
 .custom .trigger {
@@ -41,16 +41,16 @@
 }
 
 .custom .bumpers {
-    width: 564px;
-    height: 70px;
-    left: 92px;
+    width: 542px;
+    height: 53px;
+    left: 108px;
     position: absolute;
-	top: 112px;
+	top: 111px;
 }
 
 .custom .bumper {
-    width: 140px;
-    height: 70px;
+    width: 124px;
+    height: 53px;
     background: url(bumper.svg);
     opacity: 0;
 }
@@ -93,8 +93,8 @@
     position: absolute;
     width: 216px;
     height: 36px;
-    top: 463px;
-    left: 271px;
+    top: 437px;
+    left: 276px;
 }
 
 .custom .back {
@@ -127,8 +127,8 @@
     position: absolute;
     width: 130px;
     height: 150px;
-    top: 202px;
-    left: 514px;
+	top: 181px;
+    left: 516px;
 }
 
 .custom .button {
@@ -172,8 +172,8 @@
     position: absolute;
     width: 100px;
     height: 100px;
-    top: 352px;
-    left: 218px;
+    top: 331px;
+    left: 221px;
 }
 
 .custom .stick {
@@ -195,15 +195,15 @@
 
 .custom .stick.right {
     top: 0px;
-    left: 228px;
+    left: 232px;
 }
 
 .custom .dpad {
     position: absolute;
     width: 114px;
     height: 113px;
-    top: 217px;
-    left: 104px;
+    top: 199px;
+    left: 114px;
 }
 
 .custom .face {
@@ -236,7 +236,7 @@
     background-position: -88px 0px;
     width: 56px;
     height: 55px;
-    top: 23px;
+    top: 22px;
     left: 0;
 }
 
@@ -244,6 +244,6 @@
     background-position: -146px 0px;
     width: 56px;
     height: 55px;
-    top: 23px;
+    top: 22px;
     right: 0;
 }
